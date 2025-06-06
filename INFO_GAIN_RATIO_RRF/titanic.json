@@ -1,0 +1,3152 @@
+[
+    {
+        "total_erf_trees": 82,
+        "total_irf_trees": 82,
+        "irf_auc": 0.8231788523733534,
+        "erf_auc": 0.8231788523733534,
+        "rf_auc_score": 0.7490851893174404
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8271974522292993,
+        "erf_auc": 0.8271974522292993,
+        "rf_auc_score": 0.7494035900405329
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8180587724377535,
+        "erf_auc": 0.8180587724377535,
+        "rf_auc_score": 0.7531412854661262
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8261045165026057,
+        "erf_auc": 0.8261045165026057,
+        "rf_auc_score": 0.748582802547771
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8316560509554141,
+        "erf_auc": 0.8316560509554141,
+        "rf_auc_score": 0.7503836132020847
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8248957730167923,
+        "erf_auc": 0.8248957730167923,
+        "rf_auc_score": 0.7443066010422699
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8281687898089173,
+        "erf_auc": 0.8281687898089173,
+        "rf_auc_score": 0.75413288940359
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8244426751592355,
+        "erf_auc": 0.8244426751592355,
+        "rf_auc_score": 0.7544006948465547
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8305877243775333,
+        "erf_auc": 0.8305877243775333,
+        "rf_auc_score": 0.7576997683844817
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8190677475390851,
+        "erf_auc": 0.8190677475390851,
+        "rf_auc_score": 0.7559901563404748
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8329096699478866,
+        "erf_auc": 0.8329096699478866,
+        "rf_auc_score": 0.7581239143022582
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8218123914302258,
+        "erf_auc": 0.8218123914302258,
+        "rf_auc_score": 0.7595816444701795
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8264114070642734,
+        "erf_auc": 0.8264114070642734,
+        "rf_auc_score": 0.7545512449334106
+    },
+    {
+        "total_erf_trees": 19,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8311088592935725,
+        "erf_auc": 0.8318654191936122,
+        "rf_auc_score": 0.7544448846493769
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8269774174869715,
+        "erf_auc": 0.8269774174869715,
+        "rf_auc_score": 0.7537015055008685
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8169904458598728,
+        "erf_auc": 0.8169904458598728,
+        "rf_auc_score": 0.7613173132599883
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.832647654892878,
+        "erf_auc": 0.832647654892878,
+        "rf_auc_score": 0.7534221192819921
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8332209033005211,
+        "erf_auc": 0.8332209033005211,
+        "rf_auc_score": 0.7458700057903881
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8277982049797336,
+        "erf_auc": 0.8277982049797336,
+        "rf_auc_score": 0.7478314997104808
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8289939200926462,
+        "erf_auc": 0.8289939200926462,
+        "rf_auc_score": 0.75752895193978
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8376433121019108,
+        "erf_auc": 0.8376433121019108,
+        "rf_auc_score": 0.7560408222350897
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8260856977417486,
+        "erf_auc": 0.8260856977417486,
+        "rf_auc_score": 0.7389693109438331
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.82582368268674,
+        "erf_auc": 0.82582368268674,
+        "rf_auc_score": 0.755767226404169
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8352113491603939,
+        "erf_auc": 0.8352113491603939,
+        "rf_auc_score": 0.7570700636942675
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8251143601621308,
+        "erf_auc": 0.8251143601621308,
+        "rf_auc_score": 0.7551881876085698
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8288621887666474,
+        "erf_auc": 0.8288621887666474,
+        "rf_auc_score": 0.7544542559351478
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8332122177185871,
+        "erf_auc": 0.8332122177185871,
+        "rf_auc_score": 0.750076722640417
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8292197452229297,
+        "erf_auc": 0.8292197452229297,
+        "rf_auc_score": 0.755864215402432
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8312015055008686,
+        "erf_auc": 0.8312015055008686,
+        "rf_auc_score": 0.749310943833237
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8236971627099015,
+        "erf_auc": 0.8236971627099015,
+        "rf_auc_score": 0.7577576722640418
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8252229299363059,
+        "erf_auc": 0.8252229299363059,
+        "rf_auc_score": 0.7469716270990157
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8284612044006948,
+        "erf_auc": 0.8284612044006948,
+        "rf_auc_score": 0.7531137811233354
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8238795599305153,
+        "erf_auc": 0.8238795599305153,
+        "rf_auc_score": 0.7511551823972206
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8325796178343949,
+        "erf_auc": 0.8325796178343949,
+        "rf_auc_score": 0.7690865662999422
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8256268094962363,
+        "erf_auc": 0.8256268094962363,
+        "rf_auc_score": 0.754245801968732
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8236074116965838,
+        "erf_auc": 0.8236074116965838,
+        "rf_auc_score": 0.7587724377533294
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8340662999420962,
+        "erf_auc": 0.8340662999420962,
+        "rf_auc_score": 0.7563202084539665
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8261508396062535,
+        "erf_auc": 0.8261508396062535,
+        "rf_auc_score": 0.7523190503763753
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8259944991314419,
+        "erf_auc": 0.8259944991314419,
+        "rf_auc_score": 0.7488057324840763
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8278734800231614,
+        "erf_auc": 0.8278734800231614,
+        "rf_auc_score": 0.7464548349739433
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8259438332368267,
+        "erf_auc": 0.8259438332368267,
+        "rf_auc_score": 0.7561841343370006
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8259887087434858,
+        "erf_auc": 0.8259887087434858,
+        "rf_auc_score": 0.753333815865663
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8323928778228142,
+        "erf_auc": 0.8323928778228142,
+        "rf_auc_score": 0.745888824551245
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8266444701795022,
+        "erf_auc": 0.8266444701795022,
+        "rf_auc_score": 0.7524030110017372
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8327808338158658,
+        "erf_auc": 0.8327808338158658,
+        "rf_auc_score": 0.7502431962941519
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.825800521134916,
+        "erf_auc": 0.825800521134916,
+        "rf_auc_score": 0.7552070063694267
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8232339316734221,
+        "erf_auc": 0.8232339316734221,
+        "rf_auc_score": 0.7549580196873191
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8354169079328315,
+        "erf_auc": 0.8354169079328315,
+        "rf_auc_score": 0.7622596988998264
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8304169079328314,
+        "erf_auc": 0.8304169079328314,
+        "rf_auc_score": 0.7543341053850608
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8378474232773595,
+        "erf_auc": 0.8378474232773595,
+        "rf_auc_score": 0.7496308627678054
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8188317892298784,
+        "erf_auc": 0.8188317892298784,
+        "rf_auc_score": 0.7529762594093805
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8335393746381008,
+        "erf_auc": 0.8335393746381008,
+        "rf_auc_score": 0.7537420382165604
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8285495078170237,
+        "erf_auc": 0.8285495078170237,
+        "rf_auc_score": 0.7618674001158078
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8406905037637518,
+        "erf_auc": 0.8406905037637518,
+        "rf_auc_score": 0.7576447596989
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8304328314997107,
+        "erf_auc": 0.8304328314997107,
+        "rf_auc_score": 0.7576476548928779
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8311291256514186,
+        "erf_auc": 0.8311291256514186,
+        "rf_auc_score": 0.7566444701795021
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8292602779386218,
+        "erf_auc": 0.8292602779386218,
+        "rf_auc_score": 0.7525246091488129
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8278097857556457,
+        "erf_auc": 0.8278097857556457,
+        "rf_auc_score": 0.7523465547191661
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.824995657209033,
+        "erf_auc": 0.824995657209033,
+        "rf_auc_score": 0.7595888824551246
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.830887376954256,
+        "erf_auc": 0.830887376954256,
+        "rf_auc_score": 0.7448682686740014
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8322698320787494,
+        "erf_auc": 0.8322698320787494,
+        "rf_auc_score": 0.7539591777649104
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8296033584250144,
+        "erf_auc": 0.8296033584250144,
+        "rf_auc_score": 0.7560610885929357
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8229241459177764,
+        "erf_auc": 0.8229241459177764,
+        "rf_auc_score": 0.7441111754487552
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8354994209612044,
+        "erf_auc": 0.8354994209612044,
+        "rf_auc_score": 0.7545671685002896
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8223407643312101,
+        "erf_auc": 0.8223407643312101,
+        "rf_auc_score": 0.745799073537927
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8151027793862189,
+        "erf_auc": 0.8151027793862189,
+        "rf_auc_score": 0.7578879559930518
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8224971048060221,
+        "erf_auc": 0.8224971048060221,
+        "rf_auc_score": 0.7481282570932254
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8295338737695426,
+        "erf_auc": 0.8295338737695426,
+        "rf_auc_score": 0.7485408222350898
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8291285466126229,
+        "erf_auc": 0.8291285466126229,
+        "rf_auc_score": 0.7535437174290678
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8353300521134915,
+        "erf_auc": 0.8353300521134915,
+        "rf_auc_score": 0.7491227562246672
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8305935147654895,
+        "erf_auc": 0.8305935147654895,
+        "rf_auc_score": 0.7437984944991315
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8194354371742907,
+        "erf_auc": 0.8194354371742907,
+        "rf_auc_score": 0.7544759698899827
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8401983207874928,
+        "erf_auc": 0.8401983207874928,
+        "rf_auc_score": 0.7532874927620152
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8214273306311523,
+        "erf_auc": 0.8214273306311523,
+        "rf_auc_score": 0.7460726693688479
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8345715112912565,
+        "erf_auc": 0.8345715112912565,
+        "rf_auc_score": 0.7483251302837289
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8236436016213086,
+        "erf_auc": 0.8236436016213086,
+        "rf_auc_score": 0.7519412275622467
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8240185292414592,
+        "erf_auc": 0.8240185292414592,
+        "rf_auc_score": 0.7410538506079907
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8291517081644469,
+        "erf_auc": 0.8291517081644469,
+        "rf_auc_score": 0.755175159235669
+    },
+    {
+        "total_erf_trees": 19,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8302113491603939,
+        "erf_auc": 0.8287736567823728,
+        "rf_auc_score": 0.7604790784140432
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8233149971048059,
+        "erf_auc": 0.8233149971048059,
+        "rf_auc_score": 0.7503763752171395
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8326317313259988,
+        "erf_auc": 0.8326317313259988,
+        "rf_auc_score": 0.746838448176028
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.834105385060799,
+        "erf_auc": 0.834105385060799,
+        "rf_auc_score": 0.7560393746381007
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.830832368268674,
+        "erf_auc": 0.830832368268674,
+        "rf_auc_score": 0.7577084539664158
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8261580775911984,
+        "erf_auc": 0.8261580775911984,
+        "rf_auc_score": 0.7588419224088014
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8278300521134916,
+        "erf_auc": 0.8278300521134916,
+        "rf_auc_score": 0.7527909669947885
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8252012159814708,
+        "erf_auc": 0.8252012159814708,
+        "rf_auc_score": 0.7539258830341635
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8340532715691952,
+        "erf_auc": 0.8340532715691952,
+        "rf_auc_score": 0.7566878980891719
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8243514765489287,
+        "erf_auc": 0.8243514765489287,
+        "rf_auc_score": 0.753438042848871
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8284134337000578,
+        "erf_auc": 0.8284134337000578,
+        "rf_auc_score": 0.747526056745802
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8277678054429645,
+        "erf_auc": 0.8277678054429645,
+        "rf_auc_score": 0.7565387955993053
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8276317313259989,
+        "erf_auc": 0.8276317313259989,
+        "rf_auc_score": 0.7526273885350319
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8342081644470181,
+        "erf_auc": 0.8342081644470181,
+        "rf_auc_score": 0.7531948465547191
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8348204979733642,
+        "erf_auc": 0.8348204979733642,
+        "rf_auc_score": 0.7609713375796178
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8254979733642156,
+        "erf_auc": 0.8254979733642156,
+        "rf_auc_score": 0.7516980312680951
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8221250723798492,
+        "erf_auc": 0.8221250723798492,
+        "rf_auc_score": 0.754273306311523
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8357657788071802,
+        "erf_auc": 0.8357657788071802,
+        "rf_auc_score": 0.7481268094962362
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8224580196873191,
+        "erf_auc": 0.8224580196873191,
+        "rf_auc_score": 0.7449319629415171
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8362232194557035,
+        "erf_auc": 0.8362232194557035,
+        "rf_auc_score": 0.7389027214823394
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8340069484655472,
+        "erf_auc": 0.8340069484655472,
+        "rf_auc_score": 0.7509365952518819
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8352591198610307,
+        "erf_auc": 0.8352591198610307,
+        "rf_auc_score": 0.7538303416328895
+    },
+    {
+        "total_erf_trees": 79,
+        "total_irf_trees": 79,
+        "irf_auc": 0.8247682012416353,
+        "erf_auc": 0.8247682012416353,
+        "rf_auc_score": 0.7508685581933991
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8238491603937463,
+        "erf_auc": 0.8238491603937463,
+        "rf_auc_score": 0.7592921250723798
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8321294151708164,
+        "erf_auc": 0.8321294151708164,
+        "rf_auc_score": 0.764952229299363
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8256325998841924,
+        "erf_auc": 0.8256325998841924,
+        "rf_auc_score": 0.7519238563983788
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8360987261146497,
+        "erf_auc": 0.8360987261146497,
+        "rf_auc_score": 0.7610712217718588
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8348653734800232,
+        "erf_auc": 0.8348653734800232,
+        "rf_auc_score": 0.7595946728430807
+    },
+    {
+        "total_erf_trees": 19,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8212536189924726,
+        "erf_auc": 0.8202617864870632,
+        "rf_auc_score": 0.7550696370341022
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8282382744643891,
+        "erf_auc": 0.8282382744643891,
+        "rf_auc_score": 0.7536624203821656
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8273002316155182,
+        "erf_auc": 0.8273002316155182,
+        "rf_auc_score": 0.7543471337579618
+    },
+    {
+        "total_erf_trees": 19,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8367009264620731,
+        "erf_auc": 0.8354783165208911,
+        "rf_auc_score": 0.7466385274129156
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8289939200926464,
+        "erf_auc": 0.8289939200926464,
+        "rf_auc_score": 0.7542226404169078
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8331499710480603,
+        "erf_auc": 0.8331499710480603,
+        "rf_auc_score": 0.7498132599884193
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8274652576722641,
+        "erf_auc": 0.8274652576722641,
+        "rf_auc_score": 0.7536088592935728
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8246945570353216,
+        "erf_auc": 0.8246945570353216,
+        "rf_auc_score": 0.7536928199189348
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8221019108280256,
+        "erf_auc": 0.8221019108280256,
+        "rf_auc_score": 0.7598233931673424
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8158743485813551,
+        "erf_auc": 0.8158743485813551,
+        "rf_auc_score": 0.7499869716270992
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8271757382744644,
+        "erf_auc": 0.8271757382744644,
+        "rf_auc_score": 0.7577909669947889
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.828313549507817,
+        "erf_auc": 0.828313549507817,
+        "rf_auc_score": 0.7534148812970469
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8282889403590039,
+        "erf_auc": 0.8282889403590039,
+        "rf_auc_score": 0.7587709901563404
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8212304574406485,
+        "erf_auc": 0.8212304574406485,
+        "rf_auc_score": 0.7506456282570934
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8218051534452808,
+        "erf_auc": 0.8218051534452808,
+        "rf_auc_score": 0.7552345107122178
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8220266357845976,
+        "erf_auc": 0.8220266357845976,
+        "rf_auc_score": 0.7596713954834975
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8388303416328895,
+        "erf_auc": 0.8388303416328895,
+        "rf_auc_score": 0.7496786334684424
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.829141574985524,
+        "erf_auc": 0.829141574985524,
+        "rf_auc_score": 0.7552374059061957
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8362261146496814,
+        "erf_auc": 0.8362261146496814,
+        "rf_auc_score": 0.7549652576722641
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8305732484076433,
+        "erf_auc": 0.8305732484076433,
+        "rf_auc_score": 0.7576215981470759
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8264678633468442,
+        "erf_auc": 0.8264678633468442,
+        "rf_auc_score": 0.7560639837869138
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8311103068905616,
+        "erf_auc": 0.8311103068905616,
+        "rf_auc_score": 0.7532498552403012
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8210147654892875,
+        "erf_auc": 0.8210147654892875,
+        "rf_auc_score": 0.7596265199768385
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8161551823972205,
+        "erf_auc": 0.8161551823972205,
+        "rf_auc_score": 0.7600680370584831
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8282773595830921,
+        "erf_auc": 0.8282773595830921,
+        "rf_auc_score": 0.7513216560509555
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8351592356687899,
+        "erf_auc": 0.8351592356687899,
+        "rf_auc_score": 0.7591053850607989
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8256253618992473,
+        "erf_auc": 0.8256253618992473,
+        "rf_auc_score": 0.7576259409380428
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8167573827446439,
+        "erf_auc": 0.8167573827446439,
+        "rf_auc_score": 0.7564360162130864
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.825011580775912,
+        "erf_auc": 0.825011580775912,
+        "rf_auc_score": 0.7472452229299363
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8272568037058484,
+        "erf_auc": 0.8272568037058484,
+        "rf_auc_score": 0.7532643312101912
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8206528662420383,
+        "erf_auc": 0.8206528662420383,
+        "rf_auc_score": 0.7594904458598726
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.825716560509554,
+        "erf_auc": 0.825716560509554,
+        "rf_auc_score": 0.7643674001158078
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.835702084539664,
+        "erf_auc": 0.835702084539664,
+        "rf_auc_score": 0.7569253039953676
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8285234510712218,
+        "erf_auc": 0.8285234510712218,
+        "rf_auc_score": 0.7558555298204979
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8291690793283151,
+        "erf_auc": 0.8291690793283151,
+        "rf_auc_score": 0.7565011580775913
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.831855819339896,
+        "erf_auc": 0.831855819339896,
+        "rf_auc_score": 0.7449551244933409
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8204530978575564,
+        "erf_auc": 0.8204530978575564,
+        "rf_auc_score": 0.7556441806601042
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8301983207874928,
+        "erf_auc": 0.8301983207874928,
+        "rf_auc_score": 0.7483323682686741
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8296742906774753,
+        "erf_auc": 0.8296742906774753,
+        "rf_auc_score": 0.7585929357266937
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8322654892877823,
+        "erf_auc": 0.8322654892877823,
+        "rf_auc_score": 0.7545483497394324
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8259727851766069,
+        "erf_auc": 0.8259727851766069,
+        "rf_auc_score": 0.7446988998262885
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8304646786334684,
+        "erf_auc": 0.8304646786334684,
+        "rf_auc_score": 0.752378401852924
+    },
+    {
+        "total_erf_trees": 19,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8313086276780546,
+        "erf_auc": 0.8320467497638131,
+        "rf_auc_score": 0.7524578673086886
+    },
+    {
+        "total_erf_trees": 19,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8365127388535031,
+        "erf_auc": 0.8343735714503397,
+        "rf_auc_score": 0.7499497150519611
+    },
+    {
+        "total_erf_trees": 19,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8245309785755646,
+        "erf_auc": 0.8223128028525281,
+        "rf_auc_score": 0.7534544235516412
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8284843659525187,
+        "erf_auc": 0.8284843659525187,
+        "rf_auc_score": 0.7648132599884193
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8200781702374058,
+        "erf_auc": 0.8200781702374058,
+        "rf_auc_score": 0.7504111175448755
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8276737116386798,
+        "erf_auc": 0.8276737116386798,
+        "rf_auc_score": 0.7538173132599885
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8201635784597568,
+        "erf_auc": 0.8201635784597568,
+        "rf_auc_score": 0.7508830341632889
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8324609148812971,
+        "erf_auc": 0.8324609148812971,
+        "rf_auc_score": 0.7573103647944412
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8255833815865664,
+        "erf_auc": 0.8255833815865664,
+        "rf_auc_score": 0.7469455703532136
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8293731905037639,
+        "erf_auc": 0.8293731905037639,
+        "rf_auc_score": 0.7460466126230456
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8350738274464389,
+        "erf_auc": 0.8350738274464389,
+        "rf_auc_score": 0.7514968152866242
+    },
+    {
+        "total_erf_trees": 19,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8341444701795021,
+        "erf_auc": 0.8331271142534972,
+        "rf_auc_score": 0.7628165666046994
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.830041980312681,
+        "erf_auc": 0.830041980312681,
+        "rf_auc_score": 0.7572698320787492
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8301230457440649,
+        "erf_auc": 0.8301230457440649,
+        "rf_auc_score": 0.7511913723219455
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8248812970469022,
+        "erf_auc": 0.8248812970469022,
+        "rf_auc_score": 0.756838448176028
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8314866821077013,
+        "erf_auc": 0.8314866821077013,
+        "rf_auc_score": 0.7478966415749856
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8264128546612625,
+        "erf_auc": 0.8264128546612625,
+        "rf_auc_score": 0.7621352055587725
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8277996525767225,
+        "erf_auc": 0.8277996525767225,
+        "rf_auc_score": 0.7547191661841344
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8267877822814128,
+        "erf_auc": 0.8267877822814128,
+        "rf_auc_score": 0.7473827446438912
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8190735379270413,
+        "erf_auc": 0.8190735379270413,
+        "rf_auc_score": 0.7539620729588883
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8229328314997104,
+        "erf_auc": 0.8229328314997104,
+        "rf_auc_score": 0.7484568616097278
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8352634626519979,
+        "erf_auc": 0.8352634626519979,
+        "rf_auc_score": 0.7522379849449915
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8287420382165607,
+        "erf_auc": 0.8287420382165607,
+        "rf_auc_score": 0.7564085118702953
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8224261725535611,
+        "erf_auc": 0.8224261725535611,
+        "rf_auc_score": 0.7494571511291257
+    },
+    {
+        "total_erf_trees": 19,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8273219455703533,
+        "erf_auc": 0.8266510224606103,
+        "rf_auc_score": 0.755855910767074
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.820757093225246,
+        "erf_auc": 0.820757093225246,
+        "rf_auc_score": 0.7589910248986682
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8248089171974522,
+        "erf_auc": 0.8248089171974522,
+        "rf_auc_score": 0.7506760277938623
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8238129704690215,
+        "erf_auc": 0.8238129704690215,
+        "rf_auc_score": 0.754264620729589
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8268485813549509,
+        "erf_auc": 0.8268485813549509,
+        "rf_auc_score": 0.7502316155182397
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8269035900405328,
+        "erf_auc": 0.8269035900405328,
+        "rf_auc_score": 0.7447264041690793
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8338144180660105,
+        "erf_auc": 0.8338144180660105,
+        "rf_auc_score": 0.7514504921829763
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8249290677475389,
+        "erf_auc": 0.8249290677475389,
+        "rf_auc_score": 0.7605486392588303
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8180037637521712,
+        "erf_auc": 0.8180037637521712,
+        "rf_auc_score": 0.756706716850029
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8360828025477705,
+        "erf_auc": 0.8360828025477705,
+        "rf_auc_score": 0.7545613781123335
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.835961204400695,
+        "erf_auc": 0.835961204400695,
+        "rf_auc_score": 0.75591053850608
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.831873190503764,
+        "erf_auc": 0.831873190503764,
+        "rf_auc_score": 0.7480761436016213
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8328329473074696,
+        "erf_auc": 0.8328329473074696,
+        "rf_auc_score": 0.7436464968152866
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8187955993051534,
+        "erf_auc": 0.8187955993051534,
+        "rf_auc_score": 0.7563723219455702
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8342762015055009,
+        "erf_auc": 0.8342762015055009,
+        "rf_auc_score": 0.7562738853503185
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8237695425593516,
+        "erf_auc": 0.8237695425593516,
+        "rf_auc_score": 0.75582368268674
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8265228720324261,
+        "erf_auc": 0.8265228720324261,
+        "rf_auc_score": 0.747482628836132
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.831776201505501,
+        "erf_auc": 0.831776201505501,
+        "rf_auc_score": 0.7481774753908511
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8246120440069487,
+        "erf_auc": 0.8246120440069487,
+        "rf_auc_score": 0.7572104806022003
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8244774174869717,
+        "erf_auc": 0.8244774174869717,
+        "rf_auc_score": 0.7571482339316735
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8287130862767805,
+        "erf_auc": 0.8287130862767805,
+        "rf_auc_score": 0.7504198031268096
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.830030399536769,
+        "erf_auc": 0.830030399536769,
+        "rf_auc_score": 0.7544151708164447
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8174001158077591,
+        "erf_auc": 0.8174001158077591,
+        "rf_auc_score": 0.7556601042269833
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8297090330052115,
+        "erf_auc": 0.8297090330052115,
+        "rf_auc_score": 0.750083960625362
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8220613781123337,
+        "erf_auc": 0.8220613781123337,
+        "rf_auc_score": 0.7561464968152868
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.822255356108859,
+        "erf_auc": 0.822255356108859,
+        "rf_auc_score": 0.7617588303416329
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8186349160393747,
+        "erf_auc": 0.8186349160393747,
+        "rf_auc_score": 0.7543413433700057
+    },
+    {
+        "total_erf_trees": 20,
+        "total_irf_trees": 20,
+        "irf_auc": 0.8207295888824552,
+        "erf_auc": 0.8207295888824552,
+        "rf_auc_score": 0.7511768963520559
+    },
+    {
+        "total_erf_trees": 156,
+        "total_irf_trees": 163,
+        "irf_auc": 0.8282752103900167,
+        "erf_auc": 0.8268633171499411,
+        "rf_auc_score": 0.7502743010704793
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8277077301679212,
+        "erf_auc": 0.8277077301679212,
+        "rf_auc_score": 0.755536334684424
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8250137521713956,
+        "erf_auc": 0.8250137521713956,
+        "rf_auc_score": 0.7583613202084539
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8300998841922409,
+        "erf_auc": 0.8300998841922409,
+        "rf_auc_score": 0.7527764910248986
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8309315286624205,
+        "erf_auc": 0.8309315286624205,
+        "rf_auc_score": 0.7500383613202086
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8323718876664735,
+        "erf_auc": 0.8316221994565942,
+        "rf_auc_score": 0.7545009130996393
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8260683265778809,
+        "erf_auc": 0.8260683265778809,
+        "rf_auc_score": 0.7563165894614942
+    },
+    {
+        "total_erf_trees": 38,
+        "total_irf_trees": 40,
+        "irf_auc": 0.831670526925304,
+        "erf_auc": 0.8307980068875142,
+        "rf_auc_score": 0.7512350287995609
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8261291256514187,
+        "erf_auc": 0.8250404584799489,
+        "rf_auc_score": 0.7523295176161419
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8284496236247829,
+        "erf_auc": 0.828657223880154,
+        "rf_auc_score": 0.7560554095585943
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8292776491024899,
+        "erf_auc": 0.8293060442741972,
+        "rf_auc_score": 0.7503117901207073
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8315105674580193,
+        "erf_auc": 0.8315105674580193,
+        "rf_auc_score": 0.7438158656629995
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8280001447596991,
+        "erf_auc": 0.8280001447596991,
+        "rf_auc_score": 0.7490691951360743
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8345968442385641,
+        "erf_auc": 0.8345968442385641,
+        "rf_auc_score": 0.7532874927620151
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8298755066589463,
+        "erf_auc": 0.8298755066589463,
+        "rf_auc_score": 0.7519253039953676
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8337420382165608,
+        "erf_auc": 0.8337420382165608,
+        "rf_auc_score": 0.7540641285466128
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.826183410538506,
+        "erf_auc": 0.826183410538506,
+        "rf_auc_score": 0.7475347423277361
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8314888535031846,
+        "erf_auc": 0.8308427241548262,
+        "rf_auc_score": 0.7538394726292815
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8268181818181818,
+        "erf_auc": 0.8268181818181818,
+        "rf_auc_score": 0.7518384481760279
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8248624782860452,
+        "erf_auc": 0.8244265288851276,
+        "rf_auc_score": 0.7560257152613841
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8302859004053271,
+        "erf_auc": 0.830340148174543,
+        "rf_auc_score": 0.7534482502635369
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8306984655471915,
+        "erf_auc": 0.8306984655471915,
+        "rf_auc_score": 0.7523255645628258
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8282361030689055,
+        "erf_auc": 0.8282361030689055,
+        "rf_auc_score": 0.7550282281412858
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8176845686160974,
+        "erf_auc": 0.8176845686160974,
+        "rf_auc_score": 0.7534612044006949
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8247401563404748,
+        "erf_auc": 0.8247401563404748,
+        "rf_auc_score": 0.7473841922408803
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.822484076433121,
+        "erf_auc": 0.822484076433121,
+        "rf_auc_score": 0.7577902431962944
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8310943833236829,
+        "erf_auc": 0.8310943833236829,
+        "rf_auc_score": 0.7452895193977995
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8341611175448754,
+        "erf_auc": 0.8341611175448754,
+        "rf_auc_score": 0.7484706137811232
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8252381297046902,
+        "erf_auc": 0.8252381297046902,
+        "rf_auc_score": 0.747118558193399
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8213665315576142,
+        "erf_auc": 0.8213665315576142,
+        "rf_auc_score": 0.7451896352055589
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8233931673422121,
+        "erf_auc": 0.8233931673422121,
+        "rf_auc_score": 0.7539526635784599
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8361088592935724,
+        "erf_auc": 0.8361088592935724,
+        "rf_auc_score": 0.7563708743485813
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8306615518239722,
+        "erf_auc": 0.8306615518239722,
+        "rf_auc_score": 0.7527743196294152
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8262217718587145,
+        "erf_auc": 0.8262217718587145,
+        "rf_auc_score": 0.7531745801968733
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8244231325998841,
+        "erf_auc": 0.8244231325998841,
+        "rf_auc_score": 0.750127388535032
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8276679212507239,
+        "erf_auc": 0.8276679212507239,
+        "rf_auc_score": 0.753065286624204
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8187695425593514,
+        "erf_auc": 0.8189241756120736,
+        "rf_auc_score": 0.7467811381824118
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8240416907932835,
+        "erf_auc": 0.8240416907932835,
+        "rf_auc_score": 0.7482621598147075
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8326997683844819,
+        "erf_auc": 0.8326997683844819,
+        "rf_auc_score": 0.7550832368268676
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8213107990735381,
+        "erf_auc": 0.8213107990735381,
+        "rf_auc_score": 0.7520925014475968
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8311899247249567,
+        "erf_auc": 0.8311899247249567,
+        "rf_auc_score": 0.7531651708164447
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8256383902721482,
+        "erf_auc": 0.8256383902721482,
+        "rf_auc_score": 0.7544072090330054
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8326129125651421,
+        "erf_auc": 0.8326129125651421,
+        "rf_auc_score": 0.7507426172553561
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8246243485813551,
+        "erf_auc": 0.8246243485813551,
+        "rf_auc_score": 0.7481492472495656
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8309966705269252,
+        "erf_auc": 0.8309966705269252,
+        "rf_auc_score": 0.7546815286624206
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8222300231615517,
+        "erf_auc": 0.8222300231615517,
+        "rf_auc_score": 0.7551643022582513
+    },
+    {
+        "total_erf_trees": 38,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8272379849449913,
+        "erf_auc": 0.8252605674580198,
+        "rf_auc_score": 0.7574878858988817
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8398595830920673,
+        "erf_auc": 0.8405342004068118,
+        "rf_auc_score": 0.753779341677431
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8203445280833817,
+        "erf_auc": 0.8203445280833817,
+        "rf_auc_score": 0.7548805732484076
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8381101621308629,
+        "erf_auc": 0.8381101621308629,
+        "rf_auc_score": 0.7508258540822236
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8218891140706427,
+        "erf_auc": 0.8218891140706427,
+        "rf_auc_score": 0.7534235668789809
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8274145917776492,
+        "erf_auc": 0.8274145917776492,
+        "rf_auc_score": 0.7545744064852348
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8339656919513608,
+        "erf_auc": 0.8339656919513608,
+        "rf_auc_score": 0.7452316155182398
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8247553561088592,
+        "erf_auc": 0.8247553561088592,
+        "rf_auc_score": 0.7518746381007527
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8314316734221189,
+        "erf_auc": 0.8314316734221189,
+        "rf_auc_score": 0.7530920671685002
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8211508396062536,
+        "erf_auc": 0.8211508396062536,
+        "rf_auc_score": 0.7577185871453387
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8227156919513607,
+        "erf_auc": 0.8227156919513607,
+        "rf_auc_score": 0.7586566299942098
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8282686740011581,
+        "erf_auc": 0.8282686740011581,
+        "rf_auc_score": 0.7527004921829762
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8343876664736541,
+        "erf_auc": 0.8343876664736541,
+        "rf_auc_score": 0.7504103937463811
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8327345107122177,
+        "erf_auc": 0.8327345107122177,
+        "rf_auc_score": 0.7547242327735957
+    },
+    {
+        "total_erf_trees": 38,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8293876664736539,
+        "erf_auc": 0.8276437692378021,
+        "rf_auc_score": 0.7472396611099261
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8337630283729011,
+        "erf_auc": 0.8337630283729011,
+        "rf_auc_score": 0.7507990735379272
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8246750144759698,
+        "erf_auc": 0.8246750144759698,
+        "rf_auc_score": 0.7536602489866822
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.830839606253619,
+        "erf_auc": 0.830839606253619,
+        "rf_auc_score": 0.7454009843659526
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8240749855240301,
+        "erf_auc": 0.8240749855240301,
+        "rf_auc_score": 0.7503329473074697
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8368015344528082,
+        "erf_auc": 0.8368015344528082,
+        "rf_auc_score": 0.7582643312101912
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8276006079907354,
+        "erf_auc": 0.8276006079907354,
+        "rf_auc_score": 0.759235668789809
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8266430225825129,
+        "erf_auc": 0.8266430225825129,
+        "rf_auc_score": 0.7548284597568038
+    },
+    {
+        "total_erf_trees": 38,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8208642154024322,
+        "erf_auc": 0.8196149392009267,
+        "rf_auc_score": 0.7510232225032761
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8338918645049219,
+        "erf_auc": 0.8338918645049219,
+        "rf_auc_score": 0.7553553850607992
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8203162999420963,
+        "erf_auc": 0.8203162999420963,
+        "rf_auc_score": 0.7511189924724957
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8209127099015635,
+        "erf_auc": 0.8209127099015635,
+        "rf_auc_score": 0.7551179791546033
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8286472206137814,
+        "erf_auc": 0.8286472206137814,
+        "rf_auc_score": 0.7539693109438332
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8251310075275045,
+        "erf_auc": 0.8251310075275045,
+        "rf_auc_score": 0.7540742617255355
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8269911696583673,
+        "erf_auc": 0.8269911696583673,
+        "rf_auc_score": 0.755862767805443
+    },
+    {
+        "total_erf_trees": 38,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8316806601042268,
+        "erf_auc": 0.8302524913906072,
+        "rf_auc_score": 0.7545203120714351
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8318630573248408,
+        "erf_auc": 0.8308583136608613,
+        "rf_auc_score": 0.7482391281754339
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8284496236247829,
+        "erf_auc": 0.8283417219722953,
+        "rf_auc_score": 0.7542834023725742
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8228604516502603,
+        "erf_auc": 0.8228604516502603,
+        "rf_auc_score": 0.7548798494499132
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8287167052692528,
+        "erf_auc": 0.8285273113298589,
+        "rf_auc_score": 0.7520437100054935
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8266046612623045,
+        "erf_auc": 0.8266046612623045,
+        "rf_auc_score": 0.7524044585987262
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8365576143601621,
+        "erf_auc": 0.8365576143601621,
+        "rf_auc_score": 0.7575296757382747
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8260668789808918,
+        "erf_auc": 0.8260668789808918,
+        "rf_auc_score": 0.7477142443543718
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8289432541980315,
+        "erf_auc": 0.8292169613825668,
+        "rf_auc_score": 0.7531075082030498
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8259771279675737,
+        "erf_auc": 0.8259771279675737,
+        "rf_auc_score": 0.7512036768963524
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8341886218876666,
+        "erf_auc": 0.8341886218876666,
+        "rf_auc_score": 0.7568304863925884
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8248870874348582,
+        "erf_auc": 0.8248870874348582,
+        "rf_auc_score": 0.7479639548349739
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8330594962362478,
+        "erf_auc": 0.8330594962362478,
+        "rf_auc_score": 0.7579328314997106
+    },
+    {
+        "total_erf_trees": 39,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8258410538506078,
+        "erf_auc": 0.8261072261072261,
+        "rf_auc_score": 0.7490245423366445
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8219180660104227,
+        "erf_auc": 0.8219180660104227,
+        "rf_auc_score": 0.7567494209612045
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8295628257093227,
+        "erf_auc": 0.8295628257093227,
+        "rf_auc_score": 0.752134481760278
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8319332657788072,
+        "erf_auc": 0.8319332657788072,
+        "rf_auc_score": 0.753810799073538
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8288035610885928,
+        "erf_auc": 0.8288035610885928,
+        "rf_auc_score": 0.7608540822235089
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8272705558772439,
+        "erf_auc": 0.8272705558772439,
+        "rf_auc_score": 0.7519817602779386
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.823657353792704,
+        "erf_auc": 0.823657353792704,
+        "rf_auc_score": 0.7588180370584829
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8299862478286044,
+        "erf_auc": 0.8299862478286044,
+        "rf_auc_score": 0.7541459177764913
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8328713086276782,
+        "erf_auc": 0.8328713086276782,
+        "rf_auc_score": 0.7461493920092649
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8318015344528085,
+        "erf_auc": 0.8318015344528085,
+        "rf_auc_score": 0.7540207006369427
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8285603647944411,
+        "erf_auc": 0.8285603647944411,
+        "rf_auc_score": 0.755576867400116
+    },
+    {
+        "total_erf_trees": 40,
+        "total_irf_trees": 40,
+        "irf_auc": 0.8263839027214823,
+        "erf_auc": 0.8263839027214823,
+        "rf_auc_score": 0.7524999999999998
+    },
+    {
+        "total_erf_trees": 119,
+        "total_irf_trees": 119,
+        "irf_auc": 0.8281819154992625,
+        "erf_auc": 0.8281819154992625,
+        "rf_auc_score": 0.7525937531932287
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8286267129897702,
+        "erf_auc": 0.8286267129897702,
+        "rf_auc_score": 0.7540050183362286
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8202132792897124,
+        "erf_auc": 0.8202132792897124,
+        "rf_auc_score": 0.7535842501447596
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.821157112526539,
+        "erf_auc": 0.821157112526539,
+        "rf_auc_score": 0.7548214630380237
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8235388921057712,
+        "erf_auc": 0.8235388921057712,
+        "rf_auc_score": 0.7575776877050763
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8358984751978382,
+        "erf_auc": 0.8358984751978382,
+        "rf_auc_score": 0.7475342597954063
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8293534066782475,
+        "erf_auc": 0.8293534066782475,
+        "rf_auc_score": 0.7540445859872611
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8324474039760663,
+        "erf_auc": 0.8324474039760663,
+        "rf_auc_score": 0.760537541015248
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8116695618606448,
+        "erf_auc": 0.8116695618606448,
+        "rf_auc_score": 0.752463810075275
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8257874927620151,
+        "erf_auc": 0.8257874927620151,
+        "rf_auc_score": 0.7501978382551632
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8302808338158659,
+        "erf_auc": 0.8302808338158659,
+        "rf_auc_score": 0.7505114842694459
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8216242038216559,
+        "erf_auc": 0.8216242038216559,
+        "rf_auc_score": 0.7517930901370392
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8273721289326387,
+        "erf_auc": 0.8273721289326387,
+        "rf_auc_score": 0.7567602779386219
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8261850994016603,
+        "erf_auc": 0.8261850994016603,
+        "rf_auc_score": 0.7570169851380043
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8231538313066974,
+        "erf_auc": 0.8231538313066974,
+        "rf_auc_score": 0.7546159042655858
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8274551244933411,
+        "erf_auc": 0.8274551244933411,
+        "rf_auc_score": 0.7487772630766263
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8437936691758345,
+        "erf_auc": 0.8437936691758345,
+        "rf_auc_score": 0.7513810075275045
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8337608569774173,
+        "erf_auc": 0.8337608569774173,
+        "rf_auc_score": 0.7481731325998844
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8266261339509746,
+        "erf_auc": 0.8266261339509746,
+        "rf_auc_score": 0.7531490059834011
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8378102682879756,
+        "erf_auc": 0.8378102682879756,
+        "rf_auc_score": 0.7511551823972208
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8267477320980506,
+        "erf_auc": 0.8257103208673604,
+        "rf_auc_score": 0.7465786793922091
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8308232001544105,
+        "erf_auc": 0.8308232001544105,
+        "rf_auc_score": 0.7546709129511678
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8311011387762979,
+        "erf_auc": 0.8311011387762979,
+        "rf_auc_score": 0.7532734993244546
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8268075661069293,
+        "erf_auc": 0.8268075661069293,
+        "rf_auc_score": 0.7592501447596989
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8278536961976453,
+        "erf_auc": 0.8278536961976453,
+        "rf_auc_score": 0.755031847133758
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.831243968345879,
+        "erf_auc": 0.831243968345879,
+        "rf_auc_score": 0.7559698899826288
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8271260374445087,
+        "erf_auc": 0.8271260374445087,
+        "rf_auc_score": 0.7527986875120632
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8233429839799269,
+        "erf_auc": 0.8233429839799269,
+        "rf_auc_score": 0.7519108280254778
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8246853889210578,
+        "erf_auc": 0.8246853889210578,
+        "rf_auc_score": 0.7565199768384481
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8256436981277745,
+        "erf_auc": 0.8256436981277745,
+        "rf_auc_score": 0.7446467863346843
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8248735765296273,
+        "erf_auc": 0.8248735765296273,
+        "rf_auc_score": 0.7557344142057519
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8283873769542561,
+        "erf_auc": 0.8275263063314899,
+        "rf_auc_score": 0.7496455883233833
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8234182590233546,
+        "erf_auc": 0.8234182590233546,
+        "rf_auc_score": 0.7559390079135304
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8268838062150164,
+        "erf_auc": 0.8268838062150164,
+        "rf_auc_score": 0.7547143408608377
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8237695425593518,
+        "erf_auc": 0.8237695425593518,
+        "rf_auc_score": 0.7541758347809304
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.832245705462266,
+        "erf_auc": 0.832245705462266,
+        "rf_auc_score": 0.747806408029338
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8285524030110017,
+        "erf_auc": 0.8282501048259889,
+        "rf_auc_score": 0.747266537547671
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.838602586373287,
+        "erf_auc": 0.838602586373287,
+        "rf_auc_score": 0.7539364987454161
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8295107122177184,
+        "erf_auc": 0.8295107122177184,
+        "rf_auc_score": 0.7603638293765684
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8175159235668789,
+        "erf_auc": 0.8175159235668789,
+        "rf_auc_score": 0.7534761629029146
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8301669561860646,
+        "erf_auc": 0.8289499430944633,
+        "rf_auc_score": 0.7503783719026417
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8213424049411311,
+        "erf_auc": 0.8213424049411311,
+        "rf_auc_score": 0.7494663192433894
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8360277938621887,
+        "erf_auc": 0.8360277938621887,
+        "rf_auc_score": 0.7550492182976261
+    },
+    {
+        "total_erf_trees": 28,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8272177185871452,
+        "erf_auc": 0.8250754818429976,
+        "rf_auc_score": 0.7546064604185622
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8256089558000386,
+        "erf_auc": 0.8252860251981711,
+        "rf_auc_score": 0.7541351356747799
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8333285080100368,
+        "erf_auc": 0.8333285080100368,
+        "rf_auc_score": 0.7619600463231035
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8192115421733254,
+        "erf_auc": 0.8192115421733254,
+        "rf_auc_score": 0.7563308241652192
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.829224088013897,
+        "erf_auc": 0.829224088013897,
+        "rf_auc_score": 0.7507720517274658
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8212256321173518,
+        "erf_auc": 0.8212256321173518,
+        "rf_auc_score": 0.7589210577108664
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8377378884385256,
+        "erf_auc": 0.8377378884385256,
+        "rf_auc_score": 0.7493061185099401
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8271810461300907,
+        "erf_auc": 0.8271810461300907,
+        "rf_auc_score": 0.7470343563018723
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.831385832850801,
+        "erf_auc": 0.831385832850801,
+        "rf_auc_score": 0.7432262111561473
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8320440069484657,
+        "erf_auc": 0.8320440069484657,
+        "rf_auc_score": 0.7467988805249953
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8345840571318277,
+        "erf_auc": 0.8345840571318277,
+        "rf_auc_score": 0.7535958309206717
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.829011773788844,
+        "erf_auc": 0.829011773788844,
+        "rf_auc_score": 0.749410345493148
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8238428874734607,
+        "erf_auc": 0.8238428874734607,
+        "rf_auc_score": 0.7551910828025475
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8257546805635978,
+        "erf_auc": 0.8257546805635978,
+        "rf_auc_score": 0.7564099594672843
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8317882648137422,
+        "erf_auc": 0.8317882648137422,
+        "rf_auc_score": 0.7506851959081259
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8289924724956573,
+        "erf_auc": 0.8289924724956573,
+        "rf_auc_score": 0.7531808531171588
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8273277359583094,
+        "erf_auc": 0.8273277359583094,
+        "rf_auc_score": 0.7477996525767227
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.831313453001351,
+        "erf_auc": 0.831313453001351,
+        "rf_auc_score": 0.7475332947307469
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.830839606253619,
+        "erf_auc": 0.830839606253619,
+        "rf_auc_score": 0.7492221578845782
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8298204979733641,
+        "erf_auc": 0.8298204979733641,
+        "rf_auc_score": 0.7531345300135112
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8247124107315191,
+        "erf_auc": 0.8247124107315191,
+        "rf_auc_score": 0.7553146110789423
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8267274657402044,
+        "erf_auc": 0.8267274657402044,
+        "rf_auc_score": 0.753588110403397
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8324609148812971,
+        "erf_auc": 0.8324609148812971,
+        "rf_auc_score": 0.7543254198031267
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8209438332368271,
+        "erf_auc": 0.8209438332368271,
+        "rf_auc_score": 0.7511127195522102
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8291767998455898,
+        "erf_auc": 0.829299363057325,
+        "rf_auc_score": 0.7537637521713956
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8267622080679404,
+        "erf_auc": 0.8263003414332208,
+        "rf_auc_score": 0.7557574426452092
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8327755259602394,
+        "erf_auc": 0.8327755259602394,
+        "rf_auc_score": 0.7486595251881876
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8341700443929743,
+        "erf_auc": 0.8334993910109219,
+        "rf_auc_score": 0.7573567877323645
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8281876085697739,
+        "erf_auc": 0.8281876085697739,
+        "rf_auc_score": 0.756972592163675
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8266521906967768,
+        "erf_auc": 0.8266521906967768,
+        "rf_auc_score": 0.7544634240494115
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8365267322910638,
+        "erf_auc": 0.8365267322910638,
+        "rf_auc_score": 0.7463800424628453
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8357073923952906,
+        "erf_auc": 0.8357073923952906,
+        "rf_auc_score": 0.7568838062150164
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.830345493148041,
+        "erf_auc": 0.8295509454305853,
+        "rf_auc_score": 0.7516712257652299
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8260943833236827,
+        "erf_auc": 0.8260943833236827,
+        "rf_auc_score": 0.7523721289326386
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8311561474618798,
+        "erf_auc": 0.8311561474618798,
+        "rf_auc_score": 0.7549459563790772
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8221781509361129,
+        "erf_auc": 0.8221781509361129,
+        "rf_auc_score": 0.7560943833236827
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8284298397992664,
+        "erf_auc": 0.8295609288580955,
+        "rf_auc_score": 0.7452788371303634
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8178575564562824,
+        "erf_auc": 0.8178575564562824,
+        "rf_auc_score": 0.7536971627099016
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8269378498359391,
+        "erf_auc": 0.8262703911506897,
+        "rf_auc_score": 0.7490735379270412
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8307151129125651,
+        "erf_auc": 0.8307151129125651,
+        "rf_auc_score": 0.7600752750434279
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8194576336614552,
+        "erf_auc": 0.8194576336614552,
+        "rf_auc_score": 0.7534433507044973
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.825426558579425,
+        "erf_auc": 0.825426558579425,
+        "rf_auc_score": 0.7573566878980892
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8318133564948853,
+        "erf_auc": 0.8318133564948853,
+        "rf_auc_score": 0.7501158077591202
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8298996332754297,
+        "erf_auc": 0.8298996332754297,
+        "rf_auc_score": 0.7560065624396834
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8187676124300328,
+        "erf_auc": 0.8187676124300328,
+        "rf_auc_score": 0.7498098822621115
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8253204014668982,
+        "erf_auc": 0.8240071481340973,
+        "rf_auc_score": 0.7520525926961243
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8263317892298784,
+        "erf_auc": 0.8263317892298784,
+        "rf_auc_score": 0.7524686353985718
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8288950009650647,
+        "erf_auc": 0.8288950009650647,
+        "rf_auc_score": 0.7524445087820885
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8287029530978576,
+        "erf_auc": 0.8287029530978576,
+        "rf_auc_score": 0.750559737502413
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8300936112719554,
+        "erf_auc": 0.8300936112719554,
+        "rf_auc_score": 0.7490146689828219
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8266415749855238,
+        "erf_auc": 0.8266415749855238,
+        "rf_auc_score": 0.755081065431384
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8227349932445475,
+        "erf_auc": 0.8227349932445475,
+        "rf_auc_score": 0.7460847326770893
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8368046709129511,
+        "erf_auc": 0.8368046709129511,
+        "rf_auc_score": 0.7469590812584445
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8229569581161938,
+        "erf_auc": 0.8229569581161938,
+        "rf_auc_score": 0.7504458598726115
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8261928199189342,
+        "erf_auc": 0.8265708923187506,
+        "rf_auc_score": 0.7560579438132701
+    },
+    {
+        "total_erf_trees": 30,
+        "total_irf_trees": 30,
+        "irf_auc": 0.8223460721868368,
+        "erf_auc": 0.8223460721868368,
+        "rf_auc_score": 0.7574049411310558
+    },
+    {
+        "total_erf_trees": 29,
+        "total_irf_trees": 30,
+        "irf_auc": 0.831644470179502,
+        "erf_auc": 0.8308348142084141,
+        "rf_auc_score": 0.751859912545175
+    },
+    {
+        "total_erf_trees": 171,
+        "total_irf_trees": 181,
+        "irf_auc": 0.8267416751176468,
+        "erf_auc": 0.8248820758710127,
+        "rf_auc_score": 0.7496930417144969
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8335064015955734,
+        "erf_auc": 0.8335064015955734,
+        "rf_auc_score": 0.7530882069098629
+    },
+    {
+        "total_erf_trees": 44,
+        "total_irf_trees": 45,
+        "irf_auc": 0.82645949945313,
+        "erf_auc": 0.8259883139443072,
+        "rf_auc_score": 0.7583361846607359
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8314952068455249,
+        "erf_auc": 0.8314952068455249,
+        "rf_auc_score": 0.7534813099144307
+    },
+    {
+        "total_erf_trees": 44,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8311091809817925,
+        "erf_auc": 0.8311976891088069,
+        "rf_auc_score": 0.7595403221561301
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8277147268867014,
+        "erf_auc": 0.8277147268867014,
+        "rf_auc_score": 0.7565128996976129
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8195586437624653,
+        "erf_auc": 0.8195586437624653,
+        "rf_auc_score": 0.7563861545390207
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8281245576786975,
+        "erf_auc": 0.8281245576786975,
+        "rf_auc_score": 0.7520993373222674
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8278434021746124,
+        "erf_auc": 0.8278434021746124,
+        "rf_auc_score": 0.7571935919706623
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8294434793797849,
+        "erf_auc": 0.8294434793797849,
+        "rf_auc_score": 0.7507321623882133
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8341298333655023,
+        "erf_auc": 0.8341298333655023,
+        "rf_auc_score": 0.7508318857363444
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8256958116193784,
+        "erf_auc": 0.8256958116193784,
+        "rf_auc_score": 0.7591102103840959
+    },
+    {
+        "total_erf_trees": 44,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8279707907096443,
+        "erf_auc": 0.8277774122229826,
+        "rf_auc_score": 0.7512975733010475
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8286797915460338,
+        "erf_auc": 0.8286797915460338,
+        "rf_auc_score": 0.7576870616998008
+    },
+    {
+        "total_erf_trees": 44,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8207611143279933,
+        "erf_auc": 0.8198965626151498,
+        "rf_auc_score": 0.7559055377164817
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8269574728173454,
+        "erf_auc": 0.8269574728173454,
+        "rf_auc_score": 0.750651740333269
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8235372836646722,
+        "erf_auc": 0.8235372836646722,
+        "rf_auc_score": 0.7522524609148816
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8230380235475775,
+        "erf_auc": 0.8230380235475775,
+        "rf_auc_score": 0.7530064981020396
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8182828282828284,
+        "erf_auc": 0.8182828282828284,
+        "rf_auc_score": 0.7508357459949816
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8282969825644985,
+        "erf_auc": 0.8282969825644985,
+        "rf_auc_score": 0.755193977996526
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8272457054622662,
+        "erf_auc": 0.8272457054622662,
+        "rf_auc_score": 0.7581200540436209
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.82215338094319,
+        "erf_auc": 0.82215338094319,
+        "rf_auc_score": 0.754290677475391
+    },
+    {
+        "total_erf_trees": 44,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8289300649810206,
+        "erf_auc": 0.8284406748433966,
+        "rf_auc_score": 0.7537637521713957
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.831583992794184,
+        "erf_auc": 0.831583992794184,
+        "rf_auc_score": 0.7541304767419418
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8291745480280511,
+        "erf_auc": 0.8291745480280511,
+        "rf_auc_score": 0.7491391623238757
+    },
+    {
+        "total_erf_trees": 44,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8289377854982951,
+        "erf_auc": 0.8287473022056115,
+        "rf_auc_score": 0.7531268094962364
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8260181432155957,
+        "erf_auc": 0.8260181432155957,
+        "rf_auc_score": 0.7522904201248152
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8292671942353473,
+        "erf_auc": 0.8292671942353473,
+        "rf_auc_score": 0.7611252653927815
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8347088721611015,
+        "erf_auc": 0.8347088721611015,
+        "rf_auc_score": 0.7581747410409833
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8342366338544683,
+        "erf_auc": 0.8342366338544683,
+        "rf_auc_score": 0.7513247120890434
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8185569066460788,
+        "erf_auc": 0.8185569066460788,
+        "rf_auc_score": 0.7528044779000194
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8231274528726757,
+        "erf_auc": 0.8231274528726757,
+        "rf_auc_score": 0.7533571382615969
+    },
+    {
+        "total_erf_trees": 44,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8232033712925433,
+        "erf_auc": 0.822629888929831,
+        "rf_auc_score": 0.7544085908301309
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8265521456604259,
+        "erf_auc": 0.8265521456604259,
+        "rf_auc_score": 0.755923566878981
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8335462909348258,
+        "erf_auc": 0.8335462909348258,
+        "rf_auc_score": 0.7500373158334942
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8348349739432541,
+        "erf_auc": 0.8348349739432541,
+        "rf_auc_score": 0.7468082094833686
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8228610950266999,
+        "erf_auc": 0.8228610950266999,
+        "rf_auc_score": 0.7565238370970853
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8243312101910827,
+        "erf_auc": 0.8243312101910827,
+        "rf_auc_score": 0.7508711316991572
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8303094640674261,
+        "erf_auc": 0.8303094640674261,
+        "rf_auc_score": 0.7502457697999099
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8297265650131894,
+        "erf_auc": 0.8297265650131894,
+        "rf_auc_score": 0.75492762015055
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8296969696969695,
+        "erf_auc": 0.8296969696969695,
+        "rf_auc_score": 0.7587409123077913
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8289364987454159,
+        "erf_auc": 0.8289364987454159,
+        "rf_auc_score": 0.7582699607540371
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8274586630637586,
+        "erf_auc": 0.8274586630637586,
+        "rf_auc_score": 0.7551219198352956
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8308833558515087,
+        "erf_auc": 0.8308833558515087,
+        "rf_auc_score": 0.7533256128160588
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8302618542108989,
+        "erf_auc": 0.8302618542108989,
+        "rf_auc_score": 0.7595927427137616
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8278067297175578,
+        "erf_auc": 0.8278067297175578,
+        "rf_auc_score": 0.7524744257865279
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8360001286752877,
+        "erf_auc": 0.8360001286752877,
+        "rf_auc_score": 0.7562343176992861
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.822605674580197,
+        "erf_auc": 0.822605674580197,
+        "rf_auc_score": 0.7525883034163291
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8329170687769415,
+        "erf_auc": 0.8329170687769415,
+        "rf_auc_score": 0.7569117930901372
+    },
+    {
+        "total_erf_trees": 45,
+        "total_irf_trees": 45,
+        "irf_auc": 0.8201492633339769,
+        "erf_auc": 0.8201492633339769,
+        "rf_auc_score": 0.7501042269832082
+    }
+]
